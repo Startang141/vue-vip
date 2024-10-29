@@ -1,5 +1,6 @@
 <script setup>
 import MainButton from './components/MainButton.vue'
+// local component
 import CompositionComponent from './components/CompositionComponent.vue'
 </script>
 
